@@ -1,6 +1,6 @@
 # [Navarachanaa](http://namitdoshi.me/navarachanaa/index.html)
 
-A website for my college's annual project making competetion termed as 'Navarachanaa'. This is a static website that  I made using material design CSS.
+A website for my college's annual project making competition termed as 'Navarachanaa'. This is a static website that  I made using material design CSS.
 
 ## Deployment
 
